@@ -29,5 +29,4 @@ public class Problem_6 {
 		System.out.println(squareOfTheSum(100) - sumOfSquares(100));
 
 	}
-
 }

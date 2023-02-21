@@ -1,1 +1,1 @@
-# Project Euler solutions 1-5
+# Project Euler solutions 1-6
